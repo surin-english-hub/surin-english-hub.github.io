@@ -2,4 +2,3 @@
 
 Repository name must be `surin-english-hub.github.io` inside the `surin-english-hub` Organization.
 Each course is its own repository (e.g. `edl`) and appears at `surin-english-hub.github.io/edl/`.
-TODO before launch: replace `Dr. [English name]` in index.html.
